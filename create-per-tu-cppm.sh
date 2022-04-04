@@ -1,0 +1,1 @@
+for CPP in $(find . -type f | grep "cpp$"); do NOEXT=$(basename $CPP | sed s/.cpp$//g); HEADER=$(find ../include/* -type f | grep "$NOEXT*"); create-cppm-for-files-cli.sh $1$NOEXT $NOEXT $CPP $HEADER; done
