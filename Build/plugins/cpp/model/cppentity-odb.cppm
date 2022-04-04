@@ -4,8 +4,9 @@ export module FULL_NAME_buildcppmodelcppentity-odb;
 
 /* Header files */
 
-#include "./cppentity-odb.hxx"
+#include "include/model/cppentity-odb.hxx"
 
 /* Source files */
 
-#include "./cppentity-odb.ixx"
+#include "./cppentity-odb.cxx"
+#include "include/model/cppentity-odb.ixx"
