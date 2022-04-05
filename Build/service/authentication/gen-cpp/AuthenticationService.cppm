@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_authenticationservicethriftAuthenticationService;
+export module FULL_NAME_buildauthenticationservicethriftAuthenticationService;
 
 /* Header files */
 

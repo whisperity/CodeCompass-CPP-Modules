@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_workspaceservicethriftworkspace_constants;
+export module FULL_NAME_buildworkspaceservicethriftworkspace_constants;
 
 /* Header files */
 

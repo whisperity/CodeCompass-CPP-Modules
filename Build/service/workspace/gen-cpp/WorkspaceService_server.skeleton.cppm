@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_workspaceservicethriftWorkspaceService_server_skeleton;
+export module FULL_NAME_buildworkspaceservicethriftWorkspaceService_server_skeleton;
 
 /* Header files */
 

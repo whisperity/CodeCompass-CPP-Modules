@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_pluginservicethriftPluginService;
+export module FULL_NAME_buildpluginservicethriftPluginService;
 
 /* Header files */
 

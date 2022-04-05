@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_languageservicethriftLanguageService;
+export module FULL_NAME_buildlanguageservicethriftLanguageService;
 
 /* Header files */
 

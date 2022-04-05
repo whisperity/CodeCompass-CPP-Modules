@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_projectservicethriftProjectService_server_skeleton;
+export module FULL_NAME_buildprojectservicethriftProjectService_server_skeleton;
 
 /* Header files */
 

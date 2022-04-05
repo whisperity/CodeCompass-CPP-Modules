@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_projectservicethriftproject_constants;
+export module FULL_NAME_buildprojectservicethriftproject_constants;
 
 /* Header files */
 

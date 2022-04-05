@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_projectservicethriftcommon_types;
+export module FULL_NAME_buildprojectservicethriftcommon_types;
 
 /* Header files */
 
