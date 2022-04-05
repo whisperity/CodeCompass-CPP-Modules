@@ -9,4 +9,3 @@ export module FULL_NAME_buildcppreparseservicethriftcppreparse_types;
 /* Source files */
 
 #include "./cppreparse_types.cpp"
-#include "./cppreparse_types.cpp"

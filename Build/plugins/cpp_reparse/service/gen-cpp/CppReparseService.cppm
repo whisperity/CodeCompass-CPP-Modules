@@ -9,5 +9,3 @@ export module FULL_NAME_buildcppreparseservicethriftCppReparseService;
 /* Source files */
 
 #include "./CppReparseService.cpp"
-#include "./CppReparseService_server.skeleton.cpp"
-#include "./CppReparseService.cpp"

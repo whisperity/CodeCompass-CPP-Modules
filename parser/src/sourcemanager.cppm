@@ -4,8 +4,8 @@ export module FULL_NAME_parsersourcemanager;
 
 /* Header files */
 
-#include "include/parser/sourcemanager.h"
+#include "../include/parser/sourcemanager.h"
 
 /* Source files */
 
-#include "src/sourcemanager.cpp"
+#include "./sourcemanager.cpp"

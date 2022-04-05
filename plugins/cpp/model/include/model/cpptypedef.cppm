@@ -1,4 +1,4 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_./cpptypedef;
+export module FULL_NAME_cppmodelcpptypedef;
 #include "./cpptypedef.h"

@@ -4,6 +4,7 @@ export module FULL_NAME_cppparserrelationcollector;
 
 /* Header files */
 
+#include "./relationcollector.h"
 
 /* Source files */
 

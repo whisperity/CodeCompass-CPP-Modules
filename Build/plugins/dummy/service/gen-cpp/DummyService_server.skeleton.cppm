@@ -1,6 +1,6 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_builddummyservicethriftDummyService_server.skeleton;
+export module FULL_NAME_builddummyservicethriftDummyService_server_skeleton;
 
 /* Header files */
 

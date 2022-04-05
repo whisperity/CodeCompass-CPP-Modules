@@ -4,8 +4,8 @@ export module FULL_NAME_parserpluginhandler;
 
 /* Header files */
 
-#include "include/parser/pluginhandler.h"
+#include "../include/parser/pluginhandler.h"
 
 /* Source files */
 
-#include "src/pluginhandler.cpp"
+#include "./pluginhandler.cpp"

@@ -9,7 +9,6 @@ export module FULL_NAME_utilutil;
 #include "../include/util/threadpool.h"
 #include "../include/util/util.h"
 #include "../include/util/webserverutil.h"
-#include "../include/util/legendbuilder.h"
 #include "../include/util/odbtransaction.h"
 
 /* Source files */

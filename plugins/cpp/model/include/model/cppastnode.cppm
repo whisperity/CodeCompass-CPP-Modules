@@ -1,4 +1,4 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_./cppastnode;
+export module FULL_NAME_cppmodelcppastnode;
 #include "./cppastnode.h"

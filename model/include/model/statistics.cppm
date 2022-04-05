@@ -1,4 +1,4 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_./statistics;
+export module FULL_NAME_model_statistics;
 #include "./statistics.h"

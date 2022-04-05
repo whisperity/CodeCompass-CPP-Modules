@@ -1,4 +1,4 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_./buildaction;
+export module FULL_NAME_model_buildaction;
 #include "./buildaction.h"

@@ -4,6 +4,7 @@ export module FULL_NAME_webserverthreadedmongoose;
 
 /* Header files */
 
+#include "./threadedmongoose.h"
 
 /* Source files */
 

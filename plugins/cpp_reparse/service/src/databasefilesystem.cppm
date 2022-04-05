@@ -4,6 +4,7 @@ export module FULL_NAME_cppreparseservicedatabasefilesystem;
 
 /* Header files */
 
+#include "./databasefilesystem.h"
 
 /* Source files */
 

@@ -1,4 +1,4 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_./cppmacroexpansion;
+export module FULL_NAME_cppmodelcppmacroexpansion;
 #include "./cppmacroexpansion.h"

@@ -4,6 +4,7 @@ export module FULL_NAME_webserverauthentication;
 
 /* Header files */
 
+#include "./authentication.h"
 
 /* Source files */
 

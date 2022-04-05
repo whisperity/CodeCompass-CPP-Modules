@@ -1,4 +1,4 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_./cppenum;
+export module FULL_NAME_cppmodelcppenum;
 #include "./cppenum.h"

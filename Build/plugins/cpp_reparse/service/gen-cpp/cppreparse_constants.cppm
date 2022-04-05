@@ -9,4 +9,3 @@ export module FULL_NAME_buildcppreparseservicethriftcppreparse_constants;
 /* Source files */
 
 #include "./cppreparse_constants.cpp"
-#include "./cppreparse_constants.cpp"

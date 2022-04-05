@@ -1,4 +1,4 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_./cppentity;
+export module FULL_NAME_cppmodelcppentity;
 #include "./cppentity.h"

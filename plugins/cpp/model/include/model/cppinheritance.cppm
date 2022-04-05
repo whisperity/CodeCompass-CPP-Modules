@@ -1,4 +1,4 @@
 #define MODULE_EXPORT
 
-export module FULL_NAME_./cppinheritance;
+export module FULL_NAME_cppmodelcppinheritance;
 #include "./cppinheritance.h"
