@@ -9,4 +9,4 @@ export module FULL_NAME_parsercontext;
 
 /* Source files */
 
-#include "./parsercontext.cpp"
+#include "parsercontext.cpp"

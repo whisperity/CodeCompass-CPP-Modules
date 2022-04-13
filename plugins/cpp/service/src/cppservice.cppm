@@ -8,4 +8,4 @@ export module FULL_NAME_cppservicecppservice;
 
 /* Source files */
 
-#include "./cppservice.cpp"
+#include "cppservice.cpp"

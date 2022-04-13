@@ -8,4 +8,4 @@ export module FULL_NAME_metricsparsermetricsparser;
 
 /* Source files */
 
-#include "./metricsparser.cpp"
+#include "metricsparser.cpp"

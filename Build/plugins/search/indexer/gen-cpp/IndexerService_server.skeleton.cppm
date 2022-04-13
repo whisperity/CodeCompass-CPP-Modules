@@ -7,4 +7,4 @@ export module FULL_NAME_buildsearchindexerthriftIndexerService_server_skeleton;
 
 /* Source files */
 
-#include "./IndexerService_server.skeleton.cpp"
+#include "IndexerService_server.skeleton.cpp"

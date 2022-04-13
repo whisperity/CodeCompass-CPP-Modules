@@ -4,8 +4,8 @@ export module FULL_NAME_buildworkspaceservicethriftWorkspaceService;
 
 /* Header files */
 
-#include "./WorkspaceService.h"
+#include "WorkspaceService.h"
 
 /* Source files */
 
-#include "./WorkspaceService.cpp"
+#include "WorkspaceService.cpp"

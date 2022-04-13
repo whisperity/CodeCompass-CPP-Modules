@@ -8,5 +8,5 @@ export module FULL_NAME_buildmodelbuildlog-odb;
 
 /* Source files */
 
-#include "./buildlog-odb.cxx"
+#include "buildlog-odb.cxx"
 #include "include/model/buildlog-odb.ixx"

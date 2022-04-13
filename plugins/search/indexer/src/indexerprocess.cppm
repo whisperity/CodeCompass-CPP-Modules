@@ -8,4 +8,4 @@ export module FULL_NAME_searchindexerindexerprocess;
 
 /* Source files */
 
-#include "./indexerprocess.cpp"
+#include "indexerprocess.cpp"

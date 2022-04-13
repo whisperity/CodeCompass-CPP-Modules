@@ -7,4 +7,4 @@ export module FULL_NAME_buildprojectservicethriftProjectService_server_skeleton;
 
 /* Source files */
 
-#include "./ProjectService_server.skeleton.cpp"
+#include "ProjectService_server.skeleton.cpp"

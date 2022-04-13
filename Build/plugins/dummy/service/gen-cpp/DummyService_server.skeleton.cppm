@@ -7,4 +7,4 @@ export module FULL_NAME_builddummyservicethriftDummyService_server_skeleton;
 
 /* Source files */
 
-#include "./DummyService_server.skeleton.cpp"
+#include "DummyService_server.skeleton.cpp"

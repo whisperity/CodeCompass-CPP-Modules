@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcpptypedef-odb;
 
 /* Source files */
 
-#include "./cpptypedef-odb.cxx"
+#include "cpptypedef-odb.cxx"
 #include "include/model/cpptypedef-odb.ixx"

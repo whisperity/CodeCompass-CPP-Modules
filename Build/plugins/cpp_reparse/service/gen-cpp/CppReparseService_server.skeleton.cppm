@@ -7,4 +7,4 @@ export module FULL_NAME_buildcppreparseservicethriftCppReparseService_server_ske
 
 /* Source files */
 
-#include "./CppReparseService_server.skeleton.cpp"
+#include "CppReparseService_server.skeleton.cpp"

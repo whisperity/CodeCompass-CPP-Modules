@@ -8,5 +8,5 @@ export module FULL_NAME_buildmetricsmodelmetrics-odb;
 
 /* Source files */
 
-#include "./metrics-odb.cxx"
+#include "metrics-odb.cxx"
 #include "include/model/metrics-odb.ixx"

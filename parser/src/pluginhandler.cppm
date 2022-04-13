@@ -8,4 +8,4 @@ export module FULL_NAME_parserpluginhandler;
 
 /* Source files */
 
-#include "./pluginhandler.cpp"
+#include "pluginhandler.cpp"

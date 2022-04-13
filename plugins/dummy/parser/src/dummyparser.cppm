@@ -8,4 +8,4 @@ export module FULL_NAME_dummyparserdummyparser;
 
 /* Source files */
 
-#include "./dummyparser.cpp"
+#include "dummyparser.cpp"

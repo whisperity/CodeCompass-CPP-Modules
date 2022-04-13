@@ -8,4 +8,4 @@ export module FULL_NAME_utilfilesystem;
 
 /* Source files */
 
-#include "./filesystem.cpp"
+#include "filesystem.cpp"

@@ -4,8 +4,8 @@ export module FULL_NAME_cppparsersymbolhelper;
 
 /* Header files */
 
-#include "./symbolhelper.h"
+#include "symbolhelper.h"
 
 /* Source files */
 
-#include "./symbolhelper.cpp"
+#include "symbolhelper.cpp"

@@ -7,4 +7,4 @@ export module FULL_NAME_buildsearchservicethriftSearchService_server_skeleton;
 
 /* Source files */
 
-#include "./SearchService_server.skeleton.cpp"
+#include "SearchService_server.skeleton.cpp"

@@ -8,4 +8,4 @@ export module FULL_NAME_utilpipedprocess;
 
 /* Source files */
 
-#include "./pipedprocess.cpp"
+#include "pipedprocess.cpp"

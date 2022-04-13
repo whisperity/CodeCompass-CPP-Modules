@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppmacro-odb;
 
 /* Source files */
 
-#include "./cppmacro-odb.cxx"
+#include "cppmacro-odb.cxx"
 #include "include/model/cppmacro-odb.ixx"

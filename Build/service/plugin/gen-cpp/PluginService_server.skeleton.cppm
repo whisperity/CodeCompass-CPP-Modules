@@ -7,4 +7,4 @@ export module FULL_NAME_buildpluginservicethriftPluginService_server_skeleton;
 
 /* Source files */
 
-#include "./PluginService_server.skeleton.cpp"
+#include "PluginService_server.skeleton.cpp"

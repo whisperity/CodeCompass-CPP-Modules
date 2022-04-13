@@ -4,8 +4,8 @@ export module FULL_NAME_cppreparseserviceasthtml;
 
 /* Header files */
 
-#include "./asthtml.h"
+#include "asthtml.h"
 
 /* Source files */
 
-#include "./asthtml.cpp"
+#include "asthtml.cpp"

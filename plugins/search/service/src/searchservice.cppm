@@ -8,4 +8,4 @@ export module FULL_NAME_searchservicesearchservice;
 
 /* Source files */
 
-#include "./searchservice.cpp"
+#include "searchservice.cpp"

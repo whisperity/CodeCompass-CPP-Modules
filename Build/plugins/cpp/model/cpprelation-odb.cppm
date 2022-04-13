@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcpprelation-odb;
 
 /* Source files */
 
-#include "./cpprelation-odb.cxx"
+#include "cpprelation-odb.cxx"
 #include "include/model/cpprelation-odb.ixx"

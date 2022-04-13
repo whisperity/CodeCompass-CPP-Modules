@@ -8,4 +8,4 @@ export module FULL_NAME_utildynamiclibrary;
 
 /* Source files */
 
-#include "./dynamiclibrary.cpp"
+#include "dynamiclibrary.cpp"

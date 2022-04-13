@@ -9,4 +9,4 @@ export module FULL_NAME_cppparsercppparser;
 
 /* Source files */
 
-#include "./cppparser.cpp"
+#include "cppparser.cpp"

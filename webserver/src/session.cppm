@@ -8,4 +8,4 @@ export module FULL_NAME_webserversession;
 
 /* Source files */
 
-#include "./session.cpp"
+#include "session.cpp"

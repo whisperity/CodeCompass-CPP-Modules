@@ -4,8 +4,8 @@ export module FULL_NAME_webservermainrequesthandler;
 
 /* Header files */
 
-#include "./mainrequesthandler.h"
+#include "mainrequesthandler.h"
 
 /* Source files */
 
-#include "./mainrequesthandler.cpp"
+#include "mainrequesthandler.cpp"

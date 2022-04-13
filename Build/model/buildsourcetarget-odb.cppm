@@ -8,5 +8,5 @@ export module FULL_NAME_buildmodelbuildsourcetarget-odb;
 
 /* Source files */
 
-#include "./buildsourcetarget-odb.cxx"
+#include "buildsourcetarget-odb.cxx"
 #include "include/model/buildsourcetarget-odb.ixx"

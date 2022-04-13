@@ -4,8 +4,8 @@ export module FULL_NAME_buildmetricsservicethriftMetricsService;
 
 /* Header files */
 
-#include "./MetricsService.h"
+#include "MetricsService.h"
 
 /* Source files */
 
-#include "./MetricsService.cpp"
+#include "MetricsService.cpp"

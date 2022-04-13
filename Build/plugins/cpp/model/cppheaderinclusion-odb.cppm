@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppheaderinclusion-odb;
 
 /* Source files */
 
-#include "./cppheaderinclusion-odb.cxx"
+#include "cppheaderinclusion-odb.cxx"
 #include "include/model/cppheaderinclusion-odb.ixx"

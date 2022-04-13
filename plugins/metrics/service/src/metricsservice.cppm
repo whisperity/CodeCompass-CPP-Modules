@@ -8,4 +8,4 @@ export module FULL_NAME_metricsservicemetricsservice;
 
 /* Source files */
 
-#include "./metricsservice.cpp"
+#include "metricsservice.cpp"

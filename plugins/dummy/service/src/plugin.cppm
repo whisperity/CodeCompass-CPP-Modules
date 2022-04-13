@@ -7,4 +7,4 @@ export module FULL_NAME_dummyserviceplugin;
 
 /* Source files */
 
-#include "./plugin.cpp"
+#include "plugin.cpp"

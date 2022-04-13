@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppfriendship-odb;
 
 /* Source files */
 
-#include "./cppfriendship-odb.cxx"
+#include "cppfriendship-odb.cxx"
 #include "include/model/cppfriendship-odb.ixx"

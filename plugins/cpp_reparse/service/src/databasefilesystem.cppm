@@ -4,8 +4,8 @@ export module FULL_NAME_cppreparseservicedatabasefilesystem;
 
 /* Header files */
 
-#include "./databasefilesystem.h"
+#include "databasefilesystem.h"
 
 /* Source files */
 
-#include "./databasefilesystem.cpp"
+#include "databasefilesystem.cpp"

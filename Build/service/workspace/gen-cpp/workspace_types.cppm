@@ -4,8 +4,8 @@ export module FULL_NAME_buildworkspaceservicethriftworkspace_types;
 
 /* Header files */
 
-#include "./workspace_types.h"
+#include "workspace_types.h"
 
 /* Source files */
 
-#include "./workspace_types.cpp"
+#include "workspace_types.cpp"

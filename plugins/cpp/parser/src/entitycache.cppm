@@ -4,8 +4,8 @@ export module FULL_NAME_cppparserentitycache;
 
 /* Header files */
 
-#include "./entitycache.h"
+#include "entitycache.h"
 
 /* Source files */
 
-#include "./entitycache.cpp"
+#include "entitycache.cpp"

@@ -8,4 +8,4 @@ export module FULL_NAME_utilparserutil;
 
 /* Source files */
 
-#include "./parserutil.cpp"
+#include "parserutil.cpp"

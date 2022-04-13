@@ -4,8 +4,8 @@ export module FULL_NAME_buildauthenticationservicethriftAuthenticationService;
 
 /* Header files */
 
-#include "./AuthenticationService.h"
+#include "AuthenticationService.h"
 
 /* Source files */
 
-#include "./AuthenticationService.cpp"
+#include "AuthenticationService.cpp"

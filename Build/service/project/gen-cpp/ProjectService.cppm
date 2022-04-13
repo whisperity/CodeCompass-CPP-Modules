@@ -4,8 +4,8 @@ export module FULL_NAME_buildprojectservicethriftProjectService;
 
 /* Header files */
 
-#include "./ProjectService.h"
+#include "ProjectService.h"
 
 /* Source files */
 
-#include "./ProjectService.cpp"
+#include "ProjectService.cpp"

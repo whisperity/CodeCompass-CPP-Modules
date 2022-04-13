@@ -8,4 +8,4 @@ export module FULL_NAME_cppreparseservicecppreparseservice;
 
 /* Source files */
 
-#include "./cppreparseservice.cpp"
+#include "cppreparseservice.cpp"

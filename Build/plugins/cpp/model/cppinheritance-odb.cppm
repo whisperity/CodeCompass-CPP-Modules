@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppinheritance-odb;
 
 /* Source files */
 
-#include "./cppinheritance-odb.cxx"
+#include "cppinheritance-odb.cxx"
 #include "include/model/cppinheritance-odb.ixx"

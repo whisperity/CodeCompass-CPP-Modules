@@ -7,4 +7,4 @@ export module FULL_NAME_buildauthenticationservicethriftAuthenticationService_se
 
 /* Source files */
 
-#include "./AuthenticationService_server.skeleton.cpp"
+#include "AuthenticationService_server.skeleton.cpp"

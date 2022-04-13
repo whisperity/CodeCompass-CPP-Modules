@@ -8,5 +8,5 @@ export module FULL_NAME_buildmodelfilecontent-odb;
 
 /* Source files */
 
-#include "./filecontent-odb.cxx"
+#include "filecontent-odb.cxx"
 #include "include/model/filecontent-odb.ixx"

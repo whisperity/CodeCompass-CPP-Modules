@@ -4,8 +4,8 @@ export module FULL_NAME_cppservicediagram;
 
 /* Header files */
 
-#include "./diagram.h"
+#include "diagram.h"
 
 /* Source files */
 
-#include "./diagram.cpp"
+#include "diagram.cpp"

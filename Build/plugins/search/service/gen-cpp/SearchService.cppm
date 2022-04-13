@@ -4,8 +4,8 @@ export module FULL_NAME_buildsearchservicethriftSearchService;
 
 /* Header files */
 
-#include "./SearchService.h"
+#include "SearchService.h"
 
 /* Source files */
 
-#include "./SearchService.cpp"
+#include "SearchService.cpp"

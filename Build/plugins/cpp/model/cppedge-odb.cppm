@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppedge-odb;
 
 /* Source files */
 
-#include "./cppedge-odb.cxx"
+#include "cppedge-odb.cxx"
 #include "include/model/cppedge-odb.ixx"

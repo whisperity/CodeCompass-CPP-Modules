@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppenum-odb;
 
 /* Source files */
 
-#include "./cppenum-odb.cxx"
+#include "cppenum-odb.cxx"
 #include "include/model/cppenum-odb.ixx"

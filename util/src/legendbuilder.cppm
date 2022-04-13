@@ -8,4 +8,4 @@ export module FULL_NAME_utillegendbuilder;
 
 /* Source files */
 
-#include "./legendbuilder.cpp"
+#include "legendbuilder.cpp"

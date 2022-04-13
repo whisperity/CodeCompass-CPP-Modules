@@ -4,8 +4,8 @@ export module FULL_NAME_builddummyservicethriftDummyService;
 
 /* Header files */
 
-#include "./DummyService.h"
+#include "DummyService.h"
 
 /* Source files */
 
-#include "./DummyService.cpp"
+#include "DummyService.cpp"

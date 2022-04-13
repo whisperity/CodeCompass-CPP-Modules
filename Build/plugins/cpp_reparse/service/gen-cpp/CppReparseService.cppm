@@ -4,8 +4,8 @@ export module FULL_NAME_buildcppreparseservicethriftCppReparseService;
 
 /* Header files */
 
-#include "./CppReparseService.h"
+#include "CppReparseService.h"
 
 /* Source files */
 
-#include "./CppReparseService.cpp"
+#include "CppReparseService.cpp"

@@ -4,8 +4,8 @@ export module FULL_NAME_buildprojectservicethriftcommon_constants;
 
 /* Header files */
 
-#include "./common_constants.h"
+#include "common_constants.h"
 
 /* Source files */
 
-#include "./common_constants.cpp"
+#include "common_constants.cpp"

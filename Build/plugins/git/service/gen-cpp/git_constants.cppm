@@ -4,8 +4,8 @@ export module FULL_NAME_buildgitservicethriftgit_constants;
 
 /* Header files */
 
-#include "./git_constants.h"
+#include "git_constants.h"
 
 /* Source files */
 
-#include "./git_constants.cpp"
+#include "git_constants.cpp"

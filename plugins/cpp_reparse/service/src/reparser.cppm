@@ -8,4 +8,4 @@ export module FULL_NAME_cppreparseservicereparser;
 
 /* Source files */
 
-#include "./reparser.cpp"
+#include "reparser.cpp"

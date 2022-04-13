@@ -8,4 +8,4 @@ export module FULL_NAME_gitparsergitparser;
 
 /* Source files */
 
-#include "./gitparser.cpp"
+#include "gitparser.cpp"

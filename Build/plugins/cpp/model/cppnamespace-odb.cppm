@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppnamespace-odb;
 
 /* Source files */
 
-#include "./cppnamespace-odb.cxx"
+#include "cppnamespace-odb.cxx"
 #include "include/model/cppnamespace-odb.ixx"

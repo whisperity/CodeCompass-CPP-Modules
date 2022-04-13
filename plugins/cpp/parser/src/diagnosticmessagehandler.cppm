@@ -4,8 +4,8 @@ export module FULL_NAME_cppparserdiagnosticmessagehandler;
 
 /* Header files */
 
-#include "./diagnosticmessagehandler.h"
+#include "diagnosticmessagehandler.h"
 
 /* Source files */
 
-#include "./diagnosticmessagehandler.cpp"
+#include "diagnosticmessagehandler.cpp"

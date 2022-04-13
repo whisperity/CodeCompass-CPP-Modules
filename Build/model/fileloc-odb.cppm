@@ -8,5 +8,5 @@ export module FULL_NAME_buildmodelfileloc-odb;
 
 /* Source files */
 
-#include "./fileloc-odb.cxx"
+#include "fileloc-odb.cxx"
 #include "include/model/fileloc-odb.ixx"

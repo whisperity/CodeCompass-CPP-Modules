@@ -8,4 +8,4 @@ export module FULL_NAME_parsersourcemanager;
 
 /* Source files */
 
-#include "./sourcemanager.cpp"
+#include "sourcemanager.cpp"

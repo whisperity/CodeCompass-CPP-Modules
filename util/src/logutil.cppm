@@ -8,4 +8,4 @@ export module FULL_NAME_utillogutil;
 
 /* Source files */
 
-#include "./logutil.cpp"
+#include "logutil.cpp"

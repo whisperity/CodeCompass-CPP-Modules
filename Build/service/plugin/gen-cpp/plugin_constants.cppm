@@ -4,8 +4,8 @@ export module FULL_NAME_buildpluginservicethriftplugin_constants;
 
 /* Header files */
 
-#include "./plugin_constants.h"
+#include "plugin_constants.h"
 
 /* Source files */
 
-#include "./plugin_constants.cpp"
+#include "plugin_constants.cpp"

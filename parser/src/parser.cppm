@@ -7,4 +7,4 @@ export module FULL_NAME_parsermain;
 
 /* Source files */
 
-#include "./parser.cpp"
+#include "parser.cpp"

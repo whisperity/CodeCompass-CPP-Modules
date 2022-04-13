@@ -8,5 +8,5 @@ export module FULL_NAME_buildmodelposition-odb;
 
 /* Source files */
 
-#include "./position-odb.cxx"
+#include "position-odb.cxx"
 #include "include/model/position-odb.ixx"

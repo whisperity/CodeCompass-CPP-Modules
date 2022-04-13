@@ -4,8 +4,8 @@ export module FULL_NAME_webserverauthentication;
 
 /* Header files */
 
-#include "./authentication.h"
+#include "authentication.h"
 
 /* Source files */
 
-#include "./authentication.cpp"
+#include "authentication.cpp"

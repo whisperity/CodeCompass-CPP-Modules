@@ -4,8 +4,8 @@ export module FULL_NAME_cppparserppmacrocallback;
 
 /* Header files */
 
-#include "./ppmacrocallback.h"
+#include "ppmacrocallback.h"
 
 /* Source files */
 
-#include "./ppmacrocallback.cpp"
+#include "ppmacrocallback.cpp"

@@ -8,4 +8,4 @@ export module FULL_NAME_searchparsersearchparser;
 
 /* Source files */
 
-#include "./searchparser.cpp"
+#include "searchparser.cpp"

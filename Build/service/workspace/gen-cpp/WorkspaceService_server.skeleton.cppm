@@ -7,4 +7,4 @@ export module FULL_NAME_buildworkspaceservicethriftWorkspaceService_server_skele
 
 /* Source files */
 
-#include "./WorkspaceService_server.skeleton.cpp"
+#include "WorkspaceService_server.skeleton.cpp"

@@ -4,8 +4,8 @@ export module FULL_NAME_webserversessionmanager;
 
 /* Header files */
 
-#include "./sessionmanager.h"
+#include "sessionmanager.h"
 
 /* Source files */
 
-#include "./sessionmanager.cpp"
+#include "sessionmanager.cpp"

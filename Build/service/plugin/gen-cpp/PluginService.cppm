@@ -4,8 +4,8 @@ export module FULL_NAME_buildpluginservicethriftPluginService;
 
 /* Header files */
 
-#include "./PluginService.h"
+#include "PluginService.h"
 
 /* Source files */
 
-#include "./PluginService.cpp"
+#include "PluginService.cpp"

@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppastnode-odb;
 
 /* Source files */
 
-#include "./cppastnode-odb.cxx"
+#include "cppastnode-odb.cxx"
 #include "include/model/cppastnode-odb.ixx"

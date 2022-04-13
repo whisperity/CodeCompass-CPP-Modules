@@ -8,5 +8,5 @@ export module FULL_NAME_buildmodelstatistics-odb;
 
 /* Source files */
 
-#include "./statistics-odb.cxx"
+#include "statistics-odb.cxx"
 #include "include/model/statistics-odb.ixx"

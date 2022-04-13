@@ -8,4 +8,4 @@ export module FULL_NAME_dummyservicedummyservice;
 
 /* Source files */
 
-#include "./dummyservice.cpp"
+#include "dummyservice.cpp"

@@ -7,4 +7,4 @@ export module FULL_NAME_buildlanguageservicethriftLanguageService_server_skeleto
 
 /* Source files */
 
-#include "./LanguageService_server.skeleton.cpp"
+#include "LanguageService_server.skeleton.cpp"

@@ -4,8 +4,8 @@ export module FULL_NAME_cppreparseserviceastcache;
 
 /* Header files */
 
-#include "./astcache.h"
+#include "astcache.h"
 
 /* Source files */
 
-#include "./astcache.cpp"
+#include "astcache.cpp"

@@ -4,8 +4,8 @@ export module FULL_NAME_buildauthenticationservicethriftauthentication_types;
 
 /* Header files */
 
-#include "./authentication_types.h"
+#include "authentication_types.h"
 
 /* Source files */
 
-#include "./authentication_types.cpp"
+#include "authentication_types.cpp"

@@ -4,8 +4,8 @@ export module FULL_NAME_buildlanguageservicethriftLanguageService;
 
 /* Header files */
 
-#include "./LanguageService.h"
+#include "LanguageService.h"
 
 /* Source files */
 
-#include "./LanguageService.cpp"
+#include "LanguageService.cpp"

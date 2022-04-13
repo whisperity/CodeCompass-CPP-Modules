@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppdoccomment-odb;
 
 /* Source files */
 
-#include "./cppdoccomment-odb.cxx"
+#include "cppdoccomment-odb.cxx"
 #include "include/model/cppdoccomment-odb.ixx"

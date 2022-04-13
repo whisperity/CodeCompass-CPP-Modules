@@ -4,8 +4,8 @@ export module FULL_NAME_buildsearchindexerthriftIndexerService;
 
 /* Header files */
 
-#include "./IndexerService.h"
+#include "IndexerService.h"
 
 /* Source files */
 
-#include "./IndexerService.cpp"
+#include "IndexerService.cpp"

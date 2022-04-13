@@ -8,4 +8,4 @@ export module FULL_NAME_webservermongoose;
 
 /* Source files */
 
-#include "./mongoose.c"
+#include "mongoose.c"

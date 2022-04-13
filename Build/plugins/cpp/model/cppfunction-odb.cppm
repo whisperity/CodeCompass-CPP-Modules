@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppfunction-odb;
 
 /* Source files */
 
-#include "./cppfunction-odb.cxx"
+#include "cppfunction-odb.cxx"
 #include "include/model/cppfunction-odb.ixx"

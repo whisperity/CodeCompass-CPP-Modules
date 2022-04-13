@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppentity-odb;
 
 /* Source files */
 
-#include "./cppentity-odb.cxx"
+#include "cppentity-odb.cxx"
 #include "include/model/cppentity-odb.ixx"

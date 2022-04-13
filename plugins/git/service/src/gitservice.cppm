@@ -8,4 +8,4 @@ export module FULL_NAME_gitservicegitservice;
 
 /* Source files */
 
-#include "./gitservice.cpp"
+#include "gitservice.cpp"

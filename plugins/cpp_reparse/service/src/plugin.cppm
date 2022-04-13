@@ -7,4 +7,4 @@ export module FULL_NAME_cppreparseserviceplugin;
 
 /* Source files */
 
-#include "./plugin.cpp"
+#include "plugin.cpp"

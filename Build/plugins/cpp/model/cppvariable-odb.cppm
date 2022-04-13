@@ -8,5 +8,5 @@ export module FULL_NAME_buildcppmodelcppvariable-odb;
 
 /* Source files */
 
-#include "./cppvariable-odb.cxx"
+#include "cppvariable-odb.cxx"
 #include "include/model/cppvariable-odb.ixx"
