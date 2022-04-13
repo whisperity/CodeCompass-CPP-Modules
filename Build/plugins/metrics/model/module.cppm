@@ -4,9 +4,9 @@ export module FULL_NAME_BuildPluginMetricsModelImpl;
 
 /* Header files */
 
-#include "./include/model/metrics-odb.hxx"
+#include "include/model/metrics-odb.hxx"
 
 /* Source files */
 
-#include "./include/model/metrics-odb.ixx"
-#include "./metrics-odb.cxx"
+#include "include/model/metrics-odb.ixx"
+#include "metrics-odb.cxx"
