@@ -5,8 +5,11 @@ export module FULL_NAME_buildmodelfile-odb;
 /* Header files */
 
 #include "include/model/file-odb.hxx"
+#include "include/model/filecontent-odb.hxx"
 
 /* Source files */
 
 #include "file-odb.cxx"
 #include "include/model/file-odb.ixx"
+#include "filecontent-odb.cxx"
+#include "include/model/filecontent-odb.ixx"

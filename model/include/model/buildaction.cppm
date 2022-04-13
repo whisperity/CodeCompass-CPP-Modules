@@ -2,3 +2,4 @@
 
 export module FULL_NAME_model_buildaction;
 #include "buildaction.h"
+#include "buildsourcetarget.h"
