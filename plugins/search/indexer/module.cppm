@@ -4,8 +4,8 @@ export module FULL_NAME_SearchIndexer;
 
 /* Header files */
 
-#include "./include/indexer/indexerprocess.h"
+#include "include/indexer/indexerprocess.h"
 
 /* Source files */
 
-#include "./src/indexerprocess.cpp"
+#include "src/indexerprocess.cpp"

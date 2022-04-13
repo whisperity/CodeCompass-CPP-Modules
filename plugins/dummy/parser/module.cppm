@@ -4,8 +4,8 @@ export module FULL_NAME_DummyParser;
 
 /* Header files */
 
-#include "./include/dummyparser/dummyparser.h"
+#include "include/dummyparser/dummyparser.h"
 
 /* Source files */
 
-#include "./src/dummyparser.cpp"
+#include "src/dummyparser.cpp"

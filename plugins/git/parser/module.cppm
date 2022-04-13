@@ -4,8 +4,8 @@ export module FULL_NAME_GitParser;
 
 /* Header files */
 
-#include "./include/gitparser/gitparser.h"
+#include "include/gitparser/gitparser.h"
 
 /* Source files */
 
-#include "./src/gitparser.cpp"
+#include "src/gitparser.cpp"

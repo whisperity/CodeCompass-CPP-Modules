@@ -7,5 +7,5 @@ export module FULL_NAME_DummyTest;
 
 /* Source files */
 
-#include "./src/dummyparsertest.cpp"
-#include "./src/dummyservicetest.cpp"
+#include "src/dummyparsertest.cpp"
+#include "src/dummyservicetest.cpp"

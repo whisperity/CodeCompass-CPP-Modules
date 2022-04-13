@@ -7,4 +7,4 @@ export module FULL_NAME_PlainAuthenticator;
 
 /* Source files */
 
-#include "./src/plugin.cpp"
+#include "src/plugin.cpp"

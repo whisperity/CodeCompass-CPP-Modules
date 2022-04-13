@@ -4,9 +4,9 @@ export module FULL_NAME_PluginService;
 
 /* Header files */
 
-#include "./include/pluginservice/pluginservice.h"
+#include "include/pluginservice/pluginservice.h"
 
 /* Source files */
 
-#include "./src/plugin.cpp"
-#include "./src/pluginservice.cpp"
+#include "src/plugin.cpp"
+#include "src/pluginservice.cpp"

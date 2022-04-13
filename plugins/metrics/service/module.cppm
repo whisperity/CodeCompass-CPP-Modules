@@ -4,9 +4,9 @@ export module FULL_NAME_MetricsService;
 
 /* Header files */
 
-#include "./include/metricsservice/metricsservice.h"
+#include "include/metricsservice/metricsservice.h"
 
 /* Source files */
 
-#include "./src/metricsservice.cpp"
-#include "./src/plugin.cpp"
+#include "src/metricsservice.cpp"
+#include "src/plugin.cpp"

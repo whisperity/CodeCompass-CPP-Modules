@@ -4,8 +4,8 @@ export module FULL_NAME_MetricsParser;
 
 /* Header files */
 
-#include "./include/metricsparser/metricsparser.h"
+#include "include/metricsparser/metricsparser.h"
 
 /* Source files */
 
-#include "./src/metricsparser.cpp"
+#include "src/metricsparser.cpp"
